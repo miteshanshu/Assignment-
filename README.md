@@ -12,6 +12,28 @@ Welcome! This guide will help you set up and run the **Life Coaching Website**, 
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Home 1](screenshots/home1.png)
+![Home 2](screenshots/home2.png)
+![Home 3](screenshots/home3.png)
+![Home 4](screenshots/home4.png)
+![Home 5](screenshots/home5.png)
+
+---
+
+### 🔐 Admin Panel
+![Admin 1](screenshots/admin1.png)
+![Admin 2](screenshots/admin2.png)
+![Admin 3](screenshots/admin3.png)
+
+---
+
+### ⚙️ Backend
+![Backend](screenshots/backend.png)
+
+
 ## 📦 Prerequisites
 
 - Node.js v16 or higher
