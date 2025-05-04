@@ -1,4 +1,4 @@
-Here’s the setup guide formatted for direct copy-paste:
+
 
 ```markdown
 # 🧠 Life Coaching Website – Full-Stack Project Setup Guide
